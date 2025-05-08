@@ -38,3 +38,6 @@ function classificarHeroi(){
 
         
 }
+calcularSaldo();
+classificarHeroi();
+
